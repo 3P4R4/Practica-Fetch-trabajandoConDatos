@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lenin",
+        "email": "mendoza124302@gmail.com",
+        "estado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Yolamis",
+        "email": "yolipuentes81@gmail.com",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "Ayleen",
+        "email": "ayleenmendoza@gmail.com",
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Tomas",
+        "email": "chetomasrandom@gmail.com",
+        "estado": true
+    },
+    {
+        "id": 5,
+        "nombre": "Mia",
+        "email": "mia_mendoza@gmail.com",
+        "estado": true
+    }
+]
